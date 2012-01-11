@@ -1,0 +1,22 @@
+{
+  "name": "GmailStop!",
+  "version": "1.0",
+  "description": "Control when you want your gmail to show your new emails",
+  "icons": {
+    "16": "images/icon.png",
+    "48": "images/48.png",
+    "128": "images/128.png"
+  },
+  "background_page": "views/background.html",
+  "permissions": [
+		"http://*/*", 
+		"https://*/*",
+		"tabs"
+	],
+  "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_popup": "views/popup.html",
+    "default_title": "GmailStop!"
+  },
+  "homepage_url": "http://www.dracoli.com/"
+}
