@@ -3,12 +3,11 @@ import java.math.BigInteger;
 import java.util.Scanner;
 
 /**
- * 		Coin Toss (Interviewstreet)
- * 
- * 		Author: Draco Li
- * 		  Date: March 19, 2012
- * 	   Website: http://www.dracoli.com
- * 
+ * Coin Toss  (Interviewstreet)
+ *
+ *  @author: dracoli
+ *	  @date: Mar 20, 2012
+ * @website: http://www.dracoli.com
  */
 
 public class Solution {

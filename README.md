@@ -3,3 +3,4 @@
 ####Picking Cards
 ####Quora Nearby
 ####Coin Toss
+####Permutation (Passed sample test cases. Didn't know if went through final test cases)
