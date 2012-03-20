@@ -1,0 +1,9 @@
+# OS
+.DS_STORE
+
+# Eclipse editor files
+.classpath
+.project
+.metadata
+.settings
+bin

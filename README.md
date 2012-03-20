@@ -2,3 +2,4 @@
 
 ####Picking Cards
 ####Quora Nearby
+####Coin Toss
