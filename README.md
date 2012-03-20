@@ -1,1 +1,4 @@
-###Me trying to do some codesprint problems. Only a couple works so far.
+###Me trying to do some codesprint problems. Only the following works so far
+
+####Picking Cards
+####Quora Nearby
