@@ -19,3 +19,4 @@ Sources I looked into:
 [FursharBlog](http://fusharblog.com/codesprint-2-interview-street-problems-analysis/)
 [Binary Indexed Trees](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=binaryIndexedTrees#read)
 [Blog on implementing Bit Indexed Tree](http://gborah.wordpress.com/2011/09/24/bit-indexed-tree-fenwick-tree/)
+[Karthik's explaination of BIT](http://karthikpresumes.blogspot.ca/2011/01/binary-indexed-tree.html)
